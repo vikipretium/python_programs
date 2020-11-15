@@ -7,3 +7,7 @@ print("I could have code like this.") # and the comment after is ignored
 
 print("This will run")
 
+# comment and pound characters
+
+# symbol is used for commenting 
+# comment is a note to the coder 

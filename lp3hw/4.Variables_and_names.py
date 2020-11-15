@@ -16,3 +16,13 @@ print("people can transport today:",carpool_capacity)
 print("total passengers:",passengers)
 print("each car passengers:",average_passengers_per_car)
 
+a = 1
+b = 2
+
+print(" 1 + 2  = ",a+b)
+
+addtion = a + b
+
+print(addtion)
+
+
