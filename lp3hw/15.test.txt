@@ -1,0 +1,2 @@
+file content in test.txt 
+this is content is type to read for python in ex15.
