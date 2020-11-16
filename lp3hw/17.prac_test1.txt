@@ -1,0 +1,3 @@
+practise of copying file content from f1 to f2
+
+this is will be seen in f2 after copying
